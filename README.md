@@ -1,8 +1,13 @@
 # BumpCare
 
-<img width="1448" height="1086" alt="exploading_view" src="https://github.com/user-attachments/assets/b2ce909f-00af-47c5-9306-1212546aab8f" />
-
-<img width="1448" height="1086" alt="belt_bellyInstall" src="https://github.com/user-attachments/assets/46468bd0-a301-45ae-a2be-77fd596fcbd7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2ce909f-00af-47c5-9306-1212546aab8f"
+       alt="BumpCare Exploded View"
+       width="48%" />
+  <img src="https://github.com/user-attachments/assets/46468bd0-a301-45ae-a2be-77fd596fcbd7"
+       alt="BumpCare Belt Installation"
+       width="48%" />
+</p>
 
 
 BumpCare is a prototype Android app built with Expo / React Native. It pairs with a wearable ultrasound-assisted screening device to help identify possible obstructed-labour risk factors during pregnancy (fetal presentation, size indicators, and obstetric history) and points users to relevant education and follow-up guidance.
