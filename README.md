@@ -18,13 +18,20 @@ This is a working prototype: there is no real hardware yet, so Bluetooth device 
 
 ## Features
 
-<img width="765" height="1600" alt="image" src="https://github.com/user-attachments/assets/71d7f3f9-39e6-46dc-b399-1358c325cb5e" />
-
-<img width="763" height="1600" alt="image" src="https://github.com/user-attachments/assets/797a6f1a-7370-4188-8fd4-9e23c7e61629" />
-
-<img width="763" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6607536-0341-475c-8406-440fbed4b5ec" />
-
-<img width="762" height="1600" alt="image" src="https://github.com/user-attachments/assets/5375b87c-b528-4b80-a947-50622c557d2c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71d7f3f9-39e6-46dc-b399-1358c325cb5e"
+       alt="BumpCare App Screen 1"
+       width="23%" />
+  <img src="https://github.com/user-attachments/assets/797a6f1a-7370-4188-8fd4-9e23c7e61629"
+       alt="BumpCare App Screen 2"
+       width="23%" />
+  <img src="https://github.com/user-attachments/assets/b6607536-0341-475c-8406-440fbed4b5ec"
+       alt="BumpCare App Screen 3"
+       width="23%" />
+  <img src="https://github.com/user-attachments/assets/5375b87c-b528-4b80-a947-50622c557d2c"
+       alt="BumpCare App Screen 4"
+       width="23%" />
+</p>
 
 - Profile setup with pregnancy details and obstetric history
 - Simulated BLE device pairing, device check, and live monitoring
