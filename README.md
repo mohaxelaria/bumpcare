@@ -1,5 +1,10 @@
 # BumpCare
 
+<img width="1448" height="1086" alt="exploading_view" src="https://github.com/user-attachments/assets/b2ce909f-00af-47c5-9306-1212546aab8f" />
+
+<img width="1448" height="1086" alt="belt_bellyInstall" src="https://github.com/user-attachments/assets/46468bd0-a301-45ae-a2be-77fd596fcbd7" />
+
+
 BumpCare is a prototype Android app built with Expo / React Native. It pairs with a wearable ultrasound-assisted screening device to help identify possible obstructed-labour risk factors during pregnancy (fetal presentation, size indicators, and obstetric history) and points users to relevant education and follow-up guidance.
 
 **BumpCare does not diagnose obstructed labour.** It screens for possible risk factors and encourages appropriate professional follow-up — it is not a medical device and is not a substitute for clinical care.
@@ -8,6 +13,13 @@ This is a working prototype: there is no real hardware yet, so Bluetooth device 
 
 ## Features
 
+<img width="765" height="1600" alt="image" src="https://github.com/user-attachments/assets/71d7f3f9-39e6-46dc-b399-1358c325cb5e" />
+
+<img width="763" height="1600" alt="image" src="https://github.com/user-attachments/assets/797a6f1a-7370-4188-8fd4-9e23c7e61629" />
+
+<img width="763" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6607536-0341-475c-8406-440fbed4b5ec" />
+
+<img width="762" height="1600" alt="image" src="https://github.com/user-attachments/assets/5375b87c-b528-4b80-a947-50622c557d2c" />
 
 - Profile setup with pregnancy details and obstetric history
 - Simulated BLE device pairing, device check, and live monitoring
